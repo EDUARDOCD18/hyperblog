@@ -1,3 +1,2 @@
-Hola xD
-XDDDD
-19
+Estoy desde Linux en mi laptop con SSH activada
+
