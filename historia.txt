@@ -2,3 +2,4 @@ Estoy desde Linux en mi laptop con SSH activada
 
 Ahora estoy desde WSL en Windows 10
 
+master 1
